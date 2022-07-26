@@ -7,3 +7,5 @@ draft: false
 # This is my second post
 
 Yes it is!
+
+Should I add a 3rd post?
